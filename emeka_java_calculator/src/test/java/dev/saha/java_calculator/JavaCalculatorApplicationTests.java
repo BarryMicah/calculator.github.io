@@ -1,10 +1,10 @@
-package dev.saha.emeka_java_calculator;
+package dev.saha.java_calculator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmekaJavaCalculatorApplicationTests {
+class JavaCalculatorApplicationTests {
 
     @Test
     void contextLoads() {

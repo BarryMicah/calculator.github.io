@@ -1,4 +1,4 @@
-package dev.saha.emeka_java_calculator.controller;
+package dev.saha.java_calculator.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 

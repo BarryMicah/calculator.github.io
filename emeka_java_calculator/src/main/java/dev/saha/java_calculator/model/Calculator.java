@@ -1,4 +1,4 @@
-package dev.saha.emeka_java_calculator.model;
+package dev.saha.java_calculator.model;
 
 import lombok.Getter;
 import lombok.Setter;
